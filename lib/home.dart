@@ -155,7 +155,7 @@ class _HomeState extends State<Home> {
                                 flex: 7,
                                 child: Container(
                                   child: Text(
-                                    'Story Of The Week',
+                                    'Trick Of The Week',
                                     style: TextStyle(
                                       fontSize: 25,
                                       fontFamily: 'KoHo',
@@ -192,7 +192,7 @@ class _HomeState extends State<Home> {
                                 flex: 7,
                                 child: Container(
                                   child: Text(
-                                    'Trick Of The Week',
+                                    'Story Of The Week',
                                     style: TextStyle(
                                       fontSize: 25,
                                       fontFamily: 'KoHo',
@@ -229,7 +229,7 @@ class _HomeState extends State<Home> {
                                 flex: 7,
                                 child: Container(
                                   child: Text(
-                                    'Story Of The Week',
+                                    'illusion Of The Week',
                                     style: TextStyle(
                                       fontSize: 25,
                                       fontFamily: 'KoHo',
@@ -267,7 +267,7 @@ class _HomeState extends State<Home> {
                                 flex: 7,
                                 child: Container(
                                   child: Text(
-                                    'Story Of The Week',
+                                    'Riddle Of The Week',
                                     style: TextStyle(
                                       fontSize: 25,
                                       fontFamily: 'KoHo',
